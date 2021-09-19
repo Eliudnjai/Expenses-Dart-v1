@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## V2 of new_project Dart
 
 This project is a starting point for a Flutter application.
 
@@ -13,7 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 This code was written by Eliud Njai following the ^above^ documentation.
 Anyone can use this project modify it and make it their own.
-This is V1 of the APP.
+This is V2 of the APP.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
